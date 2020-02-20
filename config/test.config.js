@@ -4,5 +4,3 @@
  * 
  **/
 let testExport = {}
-
-export default testExport
